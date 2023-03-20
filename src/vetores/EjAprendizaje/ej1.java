@@ -1,7 +1,11 @@
 package vetores.EjAprendizaje;
 
 public class ej1 {
+/*
+    1. Realizar un algoritmo que llene un vector con los 100 primeros números
+enteros y los muestre por pantalla en orden descendente.
 
+    */
     public static void main(String[] args) {
         int vector[] = new int[100]; //declarar vector tipo int e intanciar com 100 posiciones 
         for (int i = 0; i < 100; i++) {
