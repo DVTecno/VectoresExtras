@@ -31,12 +31,12 @@ URL: https://www.youtube.com/watch?v=CKSW8ws8fAU
 
 ##### Descripción: Este video tutorial cubre el tema de vectores en Java, que puede ser útil para aquellos que están tomando el curso Backend 1: Introducción a Java y desean profundizar en su conocimiento de Java.
 
-####### Notas personales del estudiante
-####### Nombre: Diego Cristian Alfredo Veras
+###### Notas personales del estudiante
+###### Nombre: Diego Cristian Alfredo Veras
 
-####### Nickname en el curso: DVTecno
+###### Nickname en el curso: DVTecno
 
-####### Descripción: Diego está documentando su experiencia en el curso Backend 1: Introducción a Java a través de notas personales, que pueden incluir observaciones, resúmenes y otras reflexiones.
+###### Descripción: Diego está documentando su experiencia en el curso Backend 1: Introducción a Java a través de notas personales, que pueden incluir observaciones, resúmenes y otras reflexiones.
 
 $ git clone https://example.com
 $ cd ../path/to/the/file
