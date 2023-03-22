@@ -17,7 +17,7 @@ public class booleangg {
      }
 
     private static boolean esMayor(int edad) {
-        return edad >= 18;
+        return edad  >= 18;
     }
 
 }
