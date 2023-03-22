@@ -54,7 +54,7 @@ $ npm start
 
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
-* [Ejercicio-6]([(https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej6.java)])
+* [Ejercicio-6]([https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej6.java])
 1. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej6.java)
 
 
