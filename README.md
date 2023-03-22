@@ -1,6 +1,6 @@
 # Argentina Programa 4.0 y EGG - Backend 1: Introducción a Java
 ## Sitios web
-####Sitio web oficial del Programa Argentina Programa 4.0 y EGG:
+#### Sitio web oficial del Programa Argentina Programa 4.0 y EGG:
 URL: https://eggcooperation.com/argentina-programa/
 
 Descripción: Este sitio web es la fuente oficial de información sobre el Programa Argentina Programa 4.0 y EGG. Aquí puedes encontrar información sobre los cursos, incluyendo Backend 1: Introducción a Java.
@@ -29,14 +29,14 @@ Descripción: Este documento de Google Drive contiene ejercicios de práctica de
 ### Video tutorial sobre vectores en Java:
 URL: https://www.youtube.com/watch?v=CKSW8ws8fAU
 
-#####Descripción: Este video tutorial cubre el tema de vectores en Java, que puede ser útil para aquellos que están tomando el curso Backend 1: Introducción a Java y desean profundizar en su conocimiento de Java.
+##### Descripción: Este video tutorial cubre el tema de vectores en Java, que puede ser útil para aquellos que están tomando el curso Backend 1: Introducción a Java y desean profundizar en su conocimiento de Java.
 
-#######Notas personales del estudiante
-#######Nombre: Diego Cristian Alfredo Veras
+####### Notas personales del estudiante
+####### Nombre: Diego Cristian Alfredo Veras
 
-#######Nickname en el curso: DVTecno
+####### Nickname en el curso: DVTecno
 
-#######Descripción: Diego está documentando su experiencia en el curso Backend 1: Introducción a Java a través de notas personales, que pueden incluir observaciones, resúmenes y otras reflexiones.
+####### Descripción: Diego está documentando su experiencia en el curso Backend 1: Introducción a Java a través de notas personales, que pueden incluir observaciones, resúmenes y otras reflexiones.
 
 $ git clone https://example.com
 $ cd ../path/to/the/file
