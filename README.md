@@ -43,8 +43,18 @@ $ cd ../path/to/the/file
 $ npm install
 $ npm start
 
+## Table of Contents
+1. [General Info](#general-info)
+2. [Technologies](#technologies)
+3. [Ejercicio 6](#ejercicio-6)
+4. [Installation](#installation)
+5. [Collaboration](#collaboration)
+6. [FAQs](#faqs)
+
+
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
+* [Ejercicio 6](./VectoresExtras/src/vetores/EjAprendizaje/Ej6.java)
 
 
 
