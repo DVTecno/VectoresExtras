@@ -29,6 +29,10 @@ Descripción: Este documento de Google Drive contiene ejercicios de práctica de
 ### Video tutorial sobre vectores en Java:
 URL: https://www.youtube.com/watch?v=CKSW8ws8fAU
 
+
+
+
+
 ##### Descripción: Este video tutorial cubre el tema de vectores en Java, que puede ser útil para aquellos que están tomando el curso Backend 1: Introducción a Java y desean profundizar en su conocimiento de Java.
 
 ###### Notas personales del estudiante
@@ -36,12 +40,8 @@ URL: https://www.youtube.com/watch?v=CKSW8ws8fAU
 
 ###### Nickname en el curso: DVTecno
 
-###### Descripción: Diego está documentando su experiencia en el curso Backend 1: Introducción a Java a través de notas personales, que pueden incluir observaciones, resúmenes y otras reflexiones.
+###### Descripción: Documentando experiencia en el curso Backend 1: Introducción a Java a través de notas personales, que pueden incluir observaciones, resúmenes y otras reflexiones.
 
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
 
 ## Table of Contents
 
@@ -52,6 +52,16 @@ $ npm start
 4. [Ejercicio 4](#ejercicio-4)
 5. [Ejercicio 5](#ejercicio-5)
 6. [Ejercicio 6](#ejercicio-6)
+
+
+
+$ git clone https://example.com
+$ cd ../path/to/the/file
+$ npm install
+$ npm start
+
+
+
 
 
 A. [General Info](#general-info)
@@ -65,36 +75,65 @@ E. [FAQs](#faqs)
 
 ## Ejercicio 1
 ...
+#####1. Realizar un algoritmo que llene un vector con los 100 primeros números
+#####enteros y los muestre por pantalla en orden descendente.
+
 ### Imagen
-![Matriz Magica](./Imagen/MatrizMagica.png)
+![Matriz Magica](./Imagen/ordenDescendente.png)
 1. [Ejercicio 1](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej1.java)
 
 ## Ejercicio 2
 ...
+####2. Realizar un algoritmo que llene un vector de tamaño N con valores
+####aleatorios y le pida al usuario un número a buscar en el vector. El
+####programa mostrará dónde se encuentra el numero y si se encuentra
+####repetido
+
 ### Imagen
-![Matriz Magica](./Imagen/MatrizMagica.png)
+![Matriz Magica](./Imagen/siSeEncuentra.png)
 2. [Ejercicio 2](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej2.java)
 
 ## Ejercicio 3
 ...
+
+####3.Recorrer un vector de N enteros contabilizando cuántos números son de 1 dígito, 
+####cuántos de 2 dígitos, etcétera (hasta 5 dígitos).
 ### Imagen
-![Matriz Magica](./Imagen/MatrizMagica.png)
+![Matriz Magica](./Imagen/hasta5Dígitos.png)
 3. [Ejercicio 3](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej3.java)
 
 ## Ejercicio 4
 ...
+####4.Realizar un programa que rellene un matriz de 4 x 4 de valores aleatorios y
+####muestre la traspuesta de la matriz. La matriz traspuesta de una matriz A
+####se denota por B y se obtiene cambiando sus filas por columnas (o viceversa).
+
 ### Imagen
-![Matriz Magica](./Imagen/MatrizMagica.png)
+![Matriz Magica](./Imagen/traspuesta.png)
 4. [Ejercicio 4](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej4.java)
 
 ## Ejercicio 5
 ...
+####5.Realice un programa que compruebe si una matriz dada es antisimétrica.
+####Se dice que una matriz A es antisimétrica cuando ésta es igual a su propia traspuesta,
+####pero cambiada de signo. Es decir, A es antisimétrica si A = -AT.
+####La matriz traspuesta de una matriz A se denota por AT y se obtiene
+####cambiando sus filas por columnas (o viceversa).
+
+
 ### Imagen
-![Matriz Magica](./Imagen/MatrizMagica.png)
+![Matriz Magica](./Imagen/matrizAntisimetrica.png)
 5. [Ejercicio 5](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej5.java)
 
 ## Ejercicio 6
 ...
+####6. Un cuadrado mágico 3 x 3 es una matriz 3 x 3 formada por números del 1 al 9
+####donde la suma de sus filas, sus columnas y sus diagonales son idénticas.
+####Crear un programa que permita introducir un cuadrado por teclado y determine 
+####si este cuadrado es mágico o no. El programa deberá comprobar que los números 
+####introducidos son correctos, es decir, están entre el 1 y el 9.
+
+
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
 6. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej6.java)
