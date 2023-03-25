@@ -46,11 +46,11 @@ $ npm start
 ## Table of Contents
 
 
-1. [Ejercicio 6](#ejercicio-1)
-2. [Ejercicio 6](#ejercicio-2)
-3. [Ejercicio 6](#ejercicio-3)
-4. [Ejercicio 6](#ejercicio-4)
-5. [Ejercicio 6](#ejercicio-5)
+1. [Ejercicio 1](#ejercicio-1)
+2. [Ejercicio 2](#ejercicio-2)
+3. [Ejercicio 3](#ejercicio-3)
+4. [Ejercicio 4](#ejercicio-4)
+5. [Ejercicio 5](#ejercicio-5)
 6. [Ejercicio 6](#ejercicio-6)
 
 
@@ -60,14 +60,41 @@ C. [Installation](#installation)
 D. [Collaboration](#collaboration)
 E. [FAQs](#faqs)
 
+## Ejercicio 1
+...
+
+## Ejercicio 1
+...
+### Imagen
+![Matriz Magica](./Imagen/MatrizMagica.png)
+1. [Ejercicio 1](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej1.java)
+
+## Ejercicio 2
+...
+### Imagen
+![Matriz Magica](./Imagen/MatrizMagica.png)
+2. [Ejercicio 2](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej2.java)
+
+## Ejercicio 3
+...
+### Imagen
+![Matriz Magica](./Imagen/MatrizMagica.png)
+3. [Ejercicio 3](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej3.java)
+
+## Ejercicio 4
+...
+### Imagen
+![Matriz Magica](./Imagen/MatrizMagica.png)
+4. [Ejercicio 4](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej4.java)
+
+## Ejercicio 5
+...
+### Imagen
+![Matriz Magica](./Imagen/MatrizMagica.png)
+5. [Ejercicio 5](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej5.java)
+
 ## Ejercicio 6
 ...
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
-
-1. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej1.java)
-2. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej2.java)
-3. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej3.java)
-4. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej4.java)
-5. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej5.java)
 6. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej6.java)
