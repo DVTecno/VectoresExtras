@@ -52,13 +52,23 @@ URL: https://www.youtube.com/watch?v=CKSW8ws8fAU
 4. [Ejercicio 4](#ejercicio-4)
 5. [Ejercicio 5](#ejercicio-5)
 6. [Ejercicio 6](#ejercicio-6)
-...
+
+
+
+
+
+
+
+
 
 
 $ git clone https://example.com
 $ cd ../path/to/the/file
 $ npm install
 $ npm start
+
+
+
 
 
 
