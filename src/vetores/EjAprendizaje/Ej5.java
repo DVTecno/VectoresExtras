@@ -35,10 +35,48 @@ En este caso la matriz es antisimétrica.
             }
         }
 
-        if (esAntisimetrica) {
+       
+        
+        
+        
+         //imprimir la sopa
+        System.out.print("+");//empieza +
+        for (int j = 0; j < 3 - 1; j++) {
+            System.out.print("---+");//continua ---+
+        }
+        System.out.println("----+");//esta se encarga de imprimir ---+ hasta completar
+
+        for (int i = 0; i < 3; i++) {
+            System.out.print("| ");
+            for (int j = 0; j < 3; j++) {
+                System.out.print(matriz[i][j] + " | ");
+            }
+            System.out.println();
+            System.out.print("+");
+            for (var j = 0; j < 3 - 1; j++) {
+                System.out.print("---+");
+            }
+            System.out.println("----+");
+        }
+        System.out.println("---------------");
+         if (esAntisimetrica) {
             System.out.println("La matriz es antisimetrica.");
         } else {
             System.out.println("La matriz no es antisimetrica.");
+        }
+        System.out.println("---------------");
+        
+         for (int i = 0; i < 3; i++) {
+            System.out.print("| ");
+            for (int j = 0; j < 3; j++) {
+                System.out.print(matriz[j][i] + " | ");
+            }
+            System.out.println();
+            System.out.print("+");
+            for (var j = 0; j < 3 - 1; j++) {
+                System.out.print("---+");
+            }
+            System.out.println("----+");
         }
 
     }

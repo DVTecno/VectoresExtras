@@ -15,8 +15,8 @@ public class ej3 {
         int n = leer.nextInt();
         int vector[] = new int[n];
         for (int i = 0; i < n; i++) {
-            vector[i] = (int) (Math.random() * 10001);
-//            vector[i] = leer.nextInt();
+            //vector[i] = (int) (Math.random() * 10001);
+            vector[i] = leer.nextInt();
             System.out.print("["+vector[i] + "] ");
         }
 

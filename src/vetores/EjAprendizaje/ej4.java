@@ -15,7 +15,7 @@ public class ej4 {
         mostrarMatriz(matrizA);
         System.out.println("");
         matrizTranspuesta(matrizA, matrizB);
-        System.out.println("Matriz 2");
+        System.out.println("Matriz 2 traspuesta");
         mostrarMatriz(matrizB);
 
     }

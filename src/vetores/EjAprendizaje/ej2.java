@@ -39,7 +39,7 @@ repetido
         System.out.println("");
         if (contador > 0) {
             System.out.println("---------------------------------------------");
-            System.out.println("El mumero " + buscar + ", esta " + contador + ", veces en posicion" + posicion);
+            System.out.println("El mumero " + buscar + ", esta " + contador + " veces en posicion" + posicion);
             System.out.println("---------------------------------------------");
         } else {
             System.out.println("-------------------------");
