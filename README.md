@@ -44,21 +44,30 @@ $ npm install
 $ npm start
 
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Ejercicio 6](#ejercicio-6)
-4. [Installation](#installation)
-5. [Collaboration](#collaboration)
-6. [FAQs](#faqs)
+
+
+1. [Ejercicio 6](#ejercicio-1)
+2. [Ejercicio 6](#ejercicio-2)
+3. [Ejercicio 6](#ejercicio-3)
+4. [Ejercicio 6](#ejercicio-4)
+5. [Ejercicio 6](#ejercicio-5)
+6. [Ejercicio 6](#ejercicio-6)
+
+
+A. [General Info](#general-info)
+B. [Technologies](#technologies)
+C. [Installation](#installation)
+D. [Collaboration](#collaboration)
+E. [FAQs](#faqs)
 
 ## Ejercicio 6
 ...
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
 
-1. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej6.java)
-
-
-
-
-
+1. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej1.java)
+2. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej2.java)
+3. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej3.java)
+4. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej4.java)
+5. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej5.java)
+6. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej6.java)
