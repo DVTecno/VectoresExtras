@@ -3,18 +3,19 @@ package vetores.EjAprendizaje;
 import java.util.Scanner;
 
 public class Ej6 {
-    
+
     /*
     Un cuadrado mágico 3 x 3 es una matriz 3 x 3 formada por números del 1 al 9
     donde la suma de sus filas, sus columnas y sus diagonales son idénticas.
     Crear un programa que permita introducir un cuadrado por teclado y determine 
     si este cuadrado es mágico o no. El programa deberá comprobar que los números 
     introducidos son correctos, es decir, están entre el 1 y el 9.
-    2 | 7 | 6
+      0  1   2
+  0  2 | 7 | 6
    ---|---|--- 
-    9 | 5 | 1
+   1 9 | 5 | 1
    ---|---|---
-    4 | 3 | 8
+  2  4 | 3 | 8
      */
     public static void main(String[] args) {
         Scanner leer = new Scanner(System.in);
@@ -27,6 +28,7 @@ public class Ej6 {
         System.out.println("La matriz es magica: " + validarMatrizMagica(matriz, n));
         System.exit(0);
     }
+
     private static void mostrarMatriz(int[][] matriz) {
         for (int i = 0; i < matriz.length; i++) {
             for (int j = 0; j < matriz[0].length; j++) {
@@ -36,6 +38,7 @@ public class Ej6 {
         }
         System.out.println("");
     }
+
     public static int validarEntero(Scanner leer) {
         int n;
         do {
@@ -53,6 +56,7 @@ public class Ej6 {
         } while (true);
         return n;
     }
+
     private static void llenarMatriz(int[][] matriz) {
         Scanner leer = new Scanner(System.in);
         for (int i = 0; i < matriz.length; i++) {
@@ -65,13 +69,14 @@ public class Ej6 {
         }
         System.out.println("");
     }
+
     private static boolean validarMatrizMagica(int[][] matriz, int n) {
         boolean magica = false;
         int conutFila = 0;
         int conutColumna = 0;
         int conutDiagonal1 = 0;
         int conutDiagonal2 = 0;
-
+      
         for (int i = 0; i < matriz.length; i++) {
             conutFila = 0;
             conutColumna = 0;
@@ -84,11 +89,22 @@ public class Ej6 {
                 if (i + j == n - 1) {
                     conutDiagonal2 += matriz[i][j];
                 }
+
+                if (true) {
+                    if (conutFila == conutColumna && conutColumna == conutDiagonal2 && conutDiagonal1 == conutFila) {
+                        magica = true;
+                    } else {
+                        if (i==n-1&&j==n-1) {
+                             magica = false;
+                        }
+                       
+                    }
+                }
+
             }
+
         }
-        if (conutFila == conutColumna && conutColumna == conutDiagonal2 && conutDiagonal1 == conutFila) {
-            magica = true;
-        }
+
         return magica;
     }
 }
