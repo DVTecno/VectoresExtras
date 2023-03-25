@@ -67,25 +67,25 @@ E. [FAQs](#faqs)
 ...
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
-1. [Ejercicio 1](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej1.java)
+1. [Ejercicio 1](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej1.java)
 
 ## Ejercicio 2
 ...
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
-2. [Ejercicio 2](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej2.java)
+2. [Ejercicio 2](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej2.java)
 
 ## Ejercicio 3
 ...
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
-3. [Ejercicio 3](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej3.java)
+3. [Ejercicio 3](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej3.java)
 
 ## Ejercicio 4
 ...
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
-4. [Ejercicio 4](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej4.java)
+4. [Ejercicio 4](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej4.java)
 
 ## Ejercicio 5
 ...
