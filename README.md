@@ -52,7 +52,7 @@ URL: https://www.youtube.com/watch?v=CKSW8ws8fAU
 4. [Ejercicio 4](#ejercicio-4)
 5. [Ejercicio 5](#ejercicio-5)
 6. [Ejercicio 6](#ejercicio-6)
-
+...
 
 
 $ git clone https://example.com
@@ -70,8 +70,8 @@ C. [Installation](#installation)
 D. [Collaboration](#collaboration)
 E. [FAQs](#faqs)
 
-## Ejercicio 1
-...
+
+
 
 ## Ejercicio 1
 ...
@@ -80,6 +80,7 @@ E. [FAQs](#faqs)
 
 ### Imagen
 ![Matriz Magica](./Imagen/ordenDescendente.png)
+
 1. [Ejercicio 1](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej1.java)
 
 ## Ejercicio 2
@@ -91,6 +92,7 @@ E. [FAQs](#faqs)
 
 ### Imagen
 ![Matriz Magica](./Imagen/siSeEncuentra.png)
+
 2. [Ejercicio 2](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej2.java)
 
 ## Ejercicio 3
@@ -100,6 +102,7 @@ E. [FAQs](#faqs)
 ####cuántos de 2 dígitos, etcétera (hasta 5 dígitos).
 ### Imagen
 ![Matriz Magica](./Imagen/hasta5Dígitos.png)
+
 3. [Ejercicio 3](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej3.java)
 
 ## Ejercicio 4
@@ -110,6 +113,7 @@ E. [FAQs](#faqs)
 
 ### Imagen
 ![Matriz Magica](./Imagen/traspuesta.png)
+
 4. [Ejercicio 4](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/ej4.java)
 
 ## Ejercicio 5
@@ -123,6 +127,7 @@ E. [FAQs](#faqs)
 
 ### Imagen
 ![Matriz Magica](./Imagen/matrizAntisimetrica.png)
+
 5. [Ejercicio 5](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej5.java)
 
 ## Ejercicio 6
@@ -136,4 +141,5 @@ E. [FAQs](#faqs)
 
 ### Imagen
 ![Matriz Magica](./Imagen/MatrizMagica.png)
+
 6. [Ejercicio 6](https://github.com/DVTecno/VectoresExtras/blob/main/src/vetores/EjAprendizaje/Ej6.java)
